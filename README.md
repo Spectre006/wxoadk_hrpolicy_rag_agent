@@ -4,15 +4,15 @@ Agent which answers questions related with HR Policy using company's internal kn
 ## RAG Connection Details
 Create connection with Astra Vector DB on Cloud. Astra vector DB provides the ability to load data like PDFs directly. Below screne shots shows details of configuration performed :
 
-![Create Astra DB database:](/Users/prashantsharma/Documents/GitHub/wxoadk_hrpolicy_rag_agent/connection/Astra DB- Create database.png)
+![Create Astra DB database:](connection/AstraDB_Create_database.png)
 
-![Load PDF using Data Explorer:](/Users/prashantsharma/Documents/GitHub/wxoadk_hrpolicy_rag_agent/connection/Astra DB Data Explorer .png)
+![Load PDF using Data Explorer:](connection/AstraDB_Data_Explorer.png)
 
-![Astra DB Connection added in WxO Knowledge:](/Users/prashantsharma/Documents/GitHub/wxoadk_hrpolicy_rag_agent/connection/Knowledge with Agent.png)
+![Astra DB Connection added in WxO Knowledge:](connection/Knowledge_with_Agent.png)
 
-[Knowledge Connection Details#1:](/Users/prashantsharma/Documents/GitHub/wxoadk_hrpolicy_rag_agent/connection/Astra DB Connection#1.png)
+![Knowledge Connection Details#1:](connection/AstraDB_Connection_1.png)
 
-[Knowledge Connection Details#2:](/Users/prashantsharma/Documents/GitHub/wxoadk_hrpolicy_rag_agent/connection/Astra DB Connection#2.png)
+![Knowledge Connection Details#2:](connection/AstraDB_Connection_2.png)
 
 
 ## Add Cloud Environment:
@@ -39,9 +39,3 @@ orchestrate agents import -f /Users/prashantsharma/Documents/GitHub/wxoadk_hrpol
 ``` 
 orchestrate agents list
 ``` 
-
-## Demo
-
-![Demo](./demo/HR Agent using RAG.mov)
-
-![Demo](demo/HR Agent using RAG.mov)
