@@ -42,4 +42,5 @@ orchestrate agents list
 
 ## Demo
 
-![Demo](/Users/prashantsharma/Documents/GitHub/wxoadk_hrpolicy_rag_agent/demo/HR Agent using RAG.mov)
+![Demo](./demo/HR Agent using RAG.mov)
+![Demo](demo/HR Agent using RAG.mov)
